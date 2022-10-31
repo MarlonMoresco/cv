@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your entire site, values
+# This config filis meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marlon Moresco"
 title_separator          : "-"
 name                     : &name "Marlon Moresco"
-description              : &description "Postdoctoral fellow at Concordia University"
+description              : &description "Postdoctoral Fellow at Concordia University"
 url                      : "https://marlonmoresco.github.io"
 baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
 repository               : ""
