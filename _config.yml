@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Marlon Moresco"
 description              : &description "Postdoctoral fellow at Concordia University"
 url                      : "https://marlonmoresco.github.io"
-baseurl                  : "/academicpages.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
