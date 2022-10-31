@@ -1,4 +1,3 @@
-
 ---
 title: "Star-Shaped Deviations"
 collection: publications
