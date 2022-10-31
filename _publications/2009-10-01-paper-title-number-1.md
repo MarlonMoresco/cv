@@ -1,7 +1,7 @@
 ---
 title: "Star-Shaped Deviations"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 
 date: 2022-09-01
 venue: 'Operations Research Letters'
