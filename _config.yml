@@ -83,14 +83,14 @@ author:
   avatar           : "foto.png"
   bio              : "Postdoctoral fellow at Concordia University"
   location         : "Montreal, QB, Canada"
-  employer         : 
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-9VZKEIAAAAJ&hl"
   email            : "marlonmoresco@hotmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Marlon-Moresco"
   uri              :
   bitbucket        :
-  codepen          : 
+  codepen          :
   dribbble         :
   flickr           :
   facebook         :
@@ -111,10 +111,9 @@ author:
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
-  xing             : 
+  xing             :
   youtube          :
   wikipedia        :
-  
 
 
 # Reading Files
