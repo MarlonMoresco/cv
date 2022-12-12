@@ -111,9 +111,11 @@ author:
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
-  xing             :
+  xing             : 
   youtube          :
-  wikipedia        :
+  lattes           : "https://lattes.cnpq.br/4095963047902019"
+  #wikipedia        :
+  
 
 
 # Reading Files
