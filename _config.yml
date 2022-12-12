@@ -83,7 +83,7 @@ author:
   avatar           : "foto.png"
   bio              : "Postdoctoral fellow at Concordia University"
   location         : "Montreal, QB, Canada"
-  employer         : "https://lattes.cnpq.br/4095963047902019"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-9VZKEIAAAAJ&hl"
   email            : "marlonmoresco@hotmail.com"
@@ -114,7 +114,7 @@ author:
   xing             : 
   youtube          :
   lattes           : "https://lattes.cnpq.br/4095963047902019"
-  #wikipedia        :
+  wikipedia        :
   
 
 
