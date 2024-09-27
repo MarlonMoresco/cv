@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marlon Moresco"
 title_separator          : "-"
 name                     : &name "Marlon Moresco"
-description              : &description "Postdoctoral Fellow at Concordia University"
+description              : &description "Professor at Federal University of Rio Grande do Sul"
 url                      : "https://marlonmoresco.github.io"
 baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Marlon Moresco"
   avatar           : "foto.png"
-  bio              : "Postdoctoral fellow at Concordia University"
-  location         : "Montreal, QB, Canada"
+  bio              : "Professor at Federal University of Rio Grande do Sul"
+  location         : "Porto Alegre, RS, Brazil"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-9VZKEIAAAAJ&hl"
